@@ -5,7 +5,7 @@ In this project, we collected data related to **anaemia** in individuals. The ma
 
 ## Libraries Used
 
-This project uses the following libraries:
+This project uses the following libraries :
 - **numpy**: For numerical operations and array manipulations.
 - **pandas**: For data manipulation and analysis.
 - **scikit-learn**:
